@@ -1,0 +1,28 @@
+# Owner confirmation needed before production
+
+- Is Eric the owner, and how should his name/title appear?
+- Official company-name capitalization
+- Production-ready vector logo file, if available; owner has approved use of the public logo and official orange/black/white colors for this preview
+- Permission to download and use Facebook/Instagram photographs
+- Exact service list, including surface-root work and any non-stump work
+- Exact service radius and specific towns served
+- Current hours (directory currently shows Monday–Friday, 9 a.m.–6 p.m.; weekends closed)
+- Approved insurance wording and current coverage status
+- Residential versus commercial mix
+- Minimum job charge
+- Whether grindings are removed, moved, or left
+- Whether holes are backfilled
+- Grinding-depth options
+- Maximum stump size
+- Minimum gate/access width
+- Equipment types, makes, and models safe to mention
+- Utility-marking policy and customer responsibilities
+- Current scheduling lead time
+- Whether quotes are always free and no-hassle
+- Preferred calls versus texts
+- Form-delivery destination (email, SMS, CRM, or other)
+- Whether 155 Lecroy Rd should ever be public; the demo treats it only as a listing address
+- Any warranty or satisfaction policy
+- Whether the business wants customers to text job photos
+- Approval to use “We Don’t Just Remove Stumps — We GRIND Them Away.”
+- Cleanup, hauling, backfilling, surface-root grinding, and tight-access capability/wording

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Private sales demo. Update before production launch.
